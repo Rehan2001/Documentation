@@ -1,7 +1,7 @@
 ---
 ---
 # Documentation
-This is Open Documentation of Different subject
+This is Documentation of Different subject
 # Welcome to my Documentation
 
 Here are the subjects I've covered:
