@@ -6,5 +6,5 @@ This is Documentation of Different subject
 
 Here are the subjects I've covered:
 
-*   [Linux Introduction](./Linux/Introduction.md)
+*   [Linux Introduction](./Linux/Index.md)
 *   [Other Subject Name](./OtherSubject/file.md) 
